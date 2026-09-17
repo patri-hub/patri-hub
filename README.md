@@ -1,21 +1,19 @@
 # patri-hub
 
 <p align="center">
-  <h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=500&lines=%C2%A1¡Hola!+Soy+Patricia" />
-</p></h1>
+  <h1>¡Hola! Soy Patricia</h1>
 </p>
 
 <p align="center">
-  Bienvenidx a mi perfil de GitHub. Estoy aprendiendo desarrollo web y microservicios.
+  <i>Bienvenidx a mi perfil de GitHub. Estoy aprendiendo desarrollo web y microservicios.</i>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
-
-Vengo del ámbito social (Trabajo Social y Sociología) y di el salto a la tecnología movida por la curiosidad de entender cómo funcionan los sistemas por dentro y crear cosas chulas.
-Actualmente estoy explorando el mundo del desarrollo, entusiasmada por aprender cosas nuevas cada día y probando pequeños proyectos desde cero.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=500&lines=%C2%A1Vengo+del+ámbito+social+(Trabajo+Social+y+Sociología)+y+di+el+salto+a+la+tecnología+movida+por+la+curiosidad+de+entender+cómo+funcionan+los+sistemas+por+dentro+y+crear+cosas+chulas;Actualmente+estoy+explorando+el+mundo+del+desarrollo,+entusiasmada+por+aprender+cosas+nuevas+cada+día+y+probando+pequeños+proyectos+desde+cero." />
+</p>  
 
 ---
 
