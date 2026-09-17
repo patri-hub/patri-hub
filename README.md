@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <i>Bienvenidx a mi perfil de GitHub. Estoy aprendiendo desarrollo web y microservicios.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=500&lines=%C2%A1Bienvenidx+a+mi+perfil+de+GitHub;Estoy+aprendiendo+desarrollo+web+y+microservicios."/>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=500&lines=%C2%A1Vengo+del+ámbito+social+(Trabajo+Social+y+Sociología)+y+di+el+salto+a+la+tecnología+movida+por+la+curiosidad+de+entender+cómo+funcionan+los+sistemas+por+dentro+y+crear+cosas+chulas;Actualmente+estoy+explorando+el+mundo+del+desarrollo,+entusiasmada+por+aprender+cosas+nuevas+cada+día+y+probando+pequeños+proyectos+desde+cero." />
+  Vengo del ámbito social (Trabajo Social y Sociología) y di el salto a la tecnología movida por la curiosidad de entender cómo funcionan los sistemas por dentro y crear cosas chulas. Actualmente estoy explorando el mundo del desarrollo web, entusiasmada por aprender cosas nuevas cada día y probando pequeños proyectos desde cero." 
 </p>  
 
 ---
