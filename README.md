@@ -1,19 +1,18 @@
 # patri-hub
 
 <p align="center">
-  <h1>¡Hola, soy Patricia 👋</h1>
+  <h1>¡Hola! soy Patricia </h1>
 </p>
 
 <p align="center">
-  Bienvenid@ a mi perfil de GitHub. Estoy aprendiendo desarrollo web y microservicios.
+  Bienvenidx a mi perfil de GitHub. Estoy aprendiendo desarrollo web y microservicios.
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-¡Hola! Te doy la bienvenida a mi espacio en GitHub.
-
+Vengo del ámbito social (Trabajo Social y Sociología) y di el salto a la tecnología movida por la curiosidad de entender cómo funcionan los sistemas por dentro y crear cosas chulas.
 Actualmente estoy explorando el mundo del desarrollo, entusiasmada por aprender cosas nuevas cada día y probando pequeños proyectos desde cero.
 
 ---
