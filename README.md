@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=700&lines=%C2%A1¡Bienvenidx+a+mi+perfil+de+GitHub!;Estoy+aprendiendo+desarrollo+web+y+microservicios."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=700&lines=%C2%A1Bienvenidx+a+mi+perfil+de+GitHub!;Estoy+aprendiendo+desarrollo+web+y+microservicios"/>
 </p>
 
 ---
