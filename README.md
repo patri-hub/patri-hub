@@ -1,5 +1,5 @@
 #
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:9B90E8,100:3670A0&text=¡Hola!%20Soy%20Patricia&fontFamily=Georgia&fontSize=45&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:9B90E8,100:3670A0&text=¡Hola!%20Soy%20Patricia&fontFamily=Fredoka&fontAlignY=40&fontColor=ffffff" />
 
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mí
 <p align="center">
-  Vengo del ámbito social (Trabajo Social y Sociología) y di el salto a la tecnología movida por la curiosidad de entender cómo funcionan los sistemas por dentro y crear cosas chulas. Actualmente estoy explorando el mundo del desarrollo web, entusiasmada por aprender cosas nuevas cada día y probando pequeños proyectos desde cero." 
+  Vengo del ámbito social (Trabajo Social y Sociología) y di el salto a la tecnología movida por la curiosidad de entender cómo funcionan los sistemas por dentro y crear cosas chulas. Actualmente estoy explorando el mundo del desarrollo web, entusiasmada por aprender cosas nuevas cada día y probando pequeños proyectos desde cero. 
 </p>  
 
 ---
