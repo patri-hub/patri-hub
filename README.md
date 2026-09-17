@@ -3,7 +3,7 @@
 <p align="center">
   <h1><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=500&lines=%C2%A1¡Hola!+Soy+Patricia" />
-</h1>
+</p></h1>
 </p>
 
 <p align="center">
