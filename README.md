@@ -1,11 +1,6 @@
 #
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=63&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=¡Hola!%20Soy%20Patricia&fontAlignY=45&section=header" />
 
---- 
-
-<p align="center">
-  <h1>¡Hola! Soy Patricia 🪐​</h1>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B90E8&center=true&vCenter=true&width=700&lines=%C2%A1Bienvenidx+a+mi+perfil+de+GitHub!"/>
@@ -28,6 +23,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=63&section=footer"/>
