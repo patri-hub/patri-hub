@@ -1,5 +1,5 @@
 #
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=¡Hola!%20Soy%20Patricia&fontAlignY=45&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:9B90E8,100:3670A0&text=¡Hola!%20Soy%20Patricia&fontAlignY=45&section=header" />
 
 
 <p align="center">
@@ -24,4 +24,4 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&fontAlignY=63&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:9B90E8,100:3670A0&fontAlignY=63&section=footer"/>
